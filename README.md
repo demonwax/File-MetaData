@@ -1,3 +1,4 @@
 # File Metadata Microservice
 
-This is the boilerplate for the File Metadata Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/file-metadata-microservice
+This project is made as a part of freeCodeCamp Curriculum on Backend Development and APIs.
+The boiler plate code was given by freeCodeCamp and this is fully completed project.
